@@ -1,4 +1,3 @@
-```markdown
 # 🏛️ DemocracyGuard
 
 **An honest empirical test of subjective/objective reconciliation for forecasting democratic backsliding**
